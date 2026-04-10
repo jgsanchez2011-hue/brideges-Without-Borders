@@ -36,7 +36,7 @@ const Contact = () => {
                 <Phone className="w-6 h-6" />
               </div>
               <h4 className="font-bold mb-1">{t('contact.info.phone.title')}</h4>
-              <p className="text-sm text-slate-600">+1 (555) 123-4567</p>
+              <p className="text-sm text-slate-600">+1 (201) 888-2189</p>
             </div>
             <div className="bg-white p-8 rounded-3xl shadow-sm border border-slate-100 text-center">
               <div className="w-12 h-12 bg-green-100 text-green-600 rounded-full flex items-center justify-center mx-auto mb-4">
