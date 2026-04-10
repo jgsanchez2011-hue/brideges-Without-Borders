@@ -1,0 +1,7 @@
+{
+  "name": "Bridges Without Borders",
+  "description": "A NJ Nonprofit Corporation dedicated to immigrant educational support in the US and humanitarian projects in Ecuador.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
